@@ -5,7 +5,10 @@ date:   2020-01-02 19:31:29 +0900
 categories: jekyll update
 ---
 Hello!
+<<<<<<< HEAD
 
+=======
+>>>>>>> f3d4e816a245d7dadde501757dd9c71c440ffdd1
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
