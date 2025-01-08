@@ -3,6 +3,7 @@ layout: post
 title:  "Wellcome blog"
 date:   2024-01-08 15:43:29 +0900
 categories: jekyll update
+comment: true
 ---
 Hello!
 
