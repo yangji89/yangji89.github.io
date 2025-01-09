@@ -38,7 +38,7 @@ category_dir: category/
 tag_dir: tag/
 
 disqus: 
-  comments: true
+  # comments: true
   shortname: yangji-1
 comments: true
 
