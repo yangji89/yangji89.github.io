@@ -36,7 +36,10 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
-disqus_shortname: shortname
+
+disqus: 
+  comments: true
+  shortname: yangji-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
