@@ -40,6 +40,8 @@ tag_dir: tag/
 disqus: 
   comments: true
   shortname: yangji-1
+comments: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
