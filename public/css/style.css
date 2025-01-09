@@ -343,3 +343,6 @@ footer {
 #post-disqus{
 	width: 100%;
 }
+#post-disqus iframe{
+	width: 100% !important; min-width: 100%;
+}
