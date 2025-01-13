@@ -36,6 +36,12 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+repository: "yangji89/yangji89.github.io"
+comments: 
+  provider: "utterances"
+  utterances: 
+    theme: "github-light"
+    ussue_term: "pathname"
 
 
 
