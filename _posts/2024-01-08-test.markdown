@@ -16,6 +16,4 @@ Test Text Language
 ### BangaBanga
 
 
-```
-`<img src="/images/test.jpg" />`
-```
+<img src="/images/test.jpg" />
