@@ -18,5 +18,5 @@ Test Text Language
 <img src="/images/test.jpg" />
 
 ```
-<img src="/images/test.jpg" />
+
 ```
