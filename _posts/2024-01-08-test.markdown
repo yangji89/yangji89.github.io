@@ -14,3 +14,6 @@ Test Text Language
 ## Hello
 
 ### BangaBanga
+
+
+`<img src="/images/test.jpg" />`
